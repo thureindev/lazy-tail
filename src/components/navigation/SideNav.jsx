@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Slideover from './Slideover';
-import './styles.css';
 import DarkModeToggle from '../dark-mode-toggle/DarkModeToggle';
+import './styles.css';
 
 function joinClassNames(...classes) {
   return classes.filter(Boolean).join(' ');
