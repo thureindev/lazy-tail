@@ -1,2 +1,2 @@
 // src/index.js
-export { default as DarkModeToggle } from './DarkModeToggle';
+export { default as DarkModeToggle } from './src/components/dark-mode-toggle/DarkModeToggle';
