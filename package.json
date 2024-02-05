@@ -1,0 +1,30 @@
+{
+  "name": "lazy-tail",
+  "version": "1.0.0",
+  "description": "Reusable react components using tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thureindev/lazy-tail.git"
+  },
+  "keywords": [
+    "tailwind",
+    "react",
+    "reusable",
+    "UI"
+  ],
+  "author": "thureindev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thureindev/lazy-tail/issues"
+  },
+  "homepage": "https://github.com/thureindev/lazy-tail#readme",
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "react": "^18.2.0",
+    "tailwindcss": "^3.4.1"
+  }
+}
